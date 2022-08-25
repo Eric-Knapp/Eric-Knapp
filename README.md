@@ -1,4 +1,5 @@
-### Hello World, My name is Eric Knapp.
+## Hello World
+### My name is Eric Knapp.
 
 <p>I am a Senior Consultant at KPMG and a graduate student studying for my Master's degree in Computer Science at Stevens Institute of Technology.</p> 
   
@@ -7,4 +8,4 @@
 
 #### GitHub statistics:
 
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Knapp&show_icons=true&theme=dracula) 
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Knapp&show_icons=true&theme=dracula)

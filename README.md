@@ -2,8 +2,7 @@
 
 <p>I am a Senior Consultant at KPMG and a graduate student studying for my Master's degree in Computer Science at Stevens Institute of Technology.</p> 
 
-#181717
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" />
 
 file:///Users/ericknapp/Downloads/github.svg
 #### Languages most used within git repositories:

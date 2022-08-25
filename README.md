@@ -2,9 +2,8 @@
 
 <p>I am a Senior Consultant at KPMG and a graduate student studying for my Master's degree in Computer Science at Stevens Institute of Technology.</p> 
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" /> <a href="eric.knapp011@gmail.com">Email</a>
 
-file:///Users/ericknapp/Downloads/github.svg
 #### Languages most used within git repositories:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Knapp&layout=compact&theme=dracula&langs_count=15)](https://github.com/Eric-Knapp/github-readme-stats)
 

@@ -6,4 +6,4 @@ I am a Senior Consultant at KPMG and a graduate student studying for my Master's
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Knapp&layout=compact)](https://github.com/Eric-Knapp/github-readme-stats)
 
-[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Knapp)](https://github.com/Eric-Knapp/github-readme-stats)
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Knapp&show_icons=true&theme=radical)

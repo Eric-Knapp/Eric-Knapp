@@ -7,4 +7,4 @@
 
 #### GitHub statistics:
 
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Knapp&show_icons=true&theme=dracula&layout=compact)
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Knapp&show_icons=true&theme=dracula&layout=compact&hide_rank)

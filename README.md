@@ -1,5 +1,4 @@
-## Hello World
-### My name is Eric Knapp.
+## My name is Eric Knapp.
 
 <p>I am a Senior Consultant at KPMG and a graduate student studying for my Master's degree in Computer Science at Stevens Institute of Technology.</p> 
   

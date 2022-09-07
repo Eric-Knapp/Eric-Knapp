@@ -1,7 +1,7 @@
 ## My name is Eric Knapp.
 
 #### Languages most used within git repositories:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Knapp&layout=compact&theme=dracula&langs_count=15)](https://github.com/Eric-Knapp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Knapp&layout=compact&theme=dracula&langs_count=10)](https://github.com/Eric-Knapp/github-readme-stats)
 
 #### GitHub statistics:
 

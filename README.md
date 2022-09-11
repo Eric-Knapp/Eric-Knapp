@@ -2,11 +2,11 @@
 (https://github.com/Eric-Knapp/github-readme-stats) ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Knapp&show_icons=true&theme=dracula&layout=compact&hide=issues) -->
 
 # Hi, I'm Eric
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Eric-Knapp&show_icons=true&theme=dracula"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Eric-Knapp&layout=compact&show_icons=true&theme=dracula"/>
 
 <img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Knapp&layout=compact&langs_count=15&theme=dracula"/>
 
-<p1>--------------------------</p1>
+
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

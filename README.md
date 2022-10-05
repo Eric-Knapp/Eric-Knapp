@@ -2,9 +2,13 @@
 (https://github.com/Eric-Knapp/github-readme-stats) ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Knapp&show_icons=true&theme=dracula&layout=compact&hide=issues) -->
 
 
-<img  align="left" width="47%" height="30%" src="https://github-readme-stats.vercel.app/api?username=Eric-Knapp&show_icons=true&theme=buefy&hide_border=true"/>
-<img  align="left" width="47%" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Knapp&layout=compact&langs_count=20&theme=buefy&hide_border=true"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=Eric-Knapp&show_icons=true&theme=buefy&hide_border=true"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Knapp&layout=compact&langs_count=20&theme=buefy&hide_border=true"/>
 
+<!--
+align="left" width="47%" height="30%" 
+align="left" width="47%" height="30%" 
+-->
 
 <!-- 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)

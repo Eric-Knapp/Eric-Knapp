@@ -3,7 +3,7 @@
 
 
 <img   width="47%" height="30%" src="https://github-readme-stats.vercel.app/api?username=Eric-Knapp&show_icons=true&theme=buefy&hide_border=true"/>
-<img   width="47%" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Knapp&layout=compact&langs_count=20&theme=buefy&hide_border=true/>
+<img   width="47%" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Knapp&layout=compact&langs_count=20&theme=buefy&hide_border=true"/>
 
 
 <!-- 

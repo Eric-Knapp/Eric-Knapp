@@ -3,11 +3,13 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Knapp&layout=compact&theme=dracula&langs_count=15)]
 (https://github.com/Eric-Knapp/github-readme-stats) ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Knapp&show_icons=true&theme=dracula&layout=compact&hide=issues) -->
 
-
-
+<!--
 <img  src="https://github-readme-stats.vercel.app/api?username=Eric-Knapp&show_icons=true&theme=buefy&hide_border=true"/>
+-->
 
-<!--<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Knapp&layout=compact&langs_count=20&theme=buefy&hide_border=true"/> -->
+<!--
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Knapp&layout=compact&langs_count=20&theme=buefy&hide_border=true"/> 
+-->
 
 
 
@@ -24,6 +26,4 @@ align="left" width="47%" height="30%"
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-
-
 -->

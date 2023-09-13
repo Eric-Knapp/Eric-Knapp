@@ -1,24 +1,8 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Eric%20Knapp-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ericfknapp/(https://www.linkedin.com/in/ericfknapp/))](https://www.linkedin.com/in/ericfknapp/) 
-[![Gmail Badge](https://img.shields.io/badge/-eric.knapp011@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eric.knapp011@gmail.com)](mailto:eric.knapp011@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Eric%20Knapp-886DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ericfknapp/(https://www.linkedin.com/in/ericfknapp/))](https://www.linkedin.com/in/ericfknapp/) 
+[![Gmail Badge](https://img.shields.io/badge/-eric.knapp011@gmail.com-886DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eric.knapp011@gmail.com)](mailto:eric.knapp011@gmail.com)
 
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Knapp&layout=compact&theme=dracula&langs_count=15)]
-(https://github.com/Eric-Knapp/github-readme-stats) ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Knapp&show_icons=true&theme=dracula&layout=compact&hide=issues)
--->
 
-<!--
-<img  src="https://github-readme-stats.vercel.app/api?username=Eric-Knapp&show_icons=true&theme=buefy&hide_border=true"/>
--->
-
-<!--
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Knapp&layout=compact&langs_count=20&theme=buefy&hide_border=true"/> 
--->
-
-<!--
-align="left" width="47%" height="30%" 
-align="left" width="47%" height="30%" 
--->
 
 <!-- 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)

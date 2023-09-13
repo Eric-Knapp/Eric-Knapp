@@ -1,8 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Eric%20Knapp-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ericfknapp/(https://www.linkedin.com/in/ericfknapp/))](https://www.linkedin.com/in/ericfknapp/) 
 
-<!--
-[![Gmail Badge](https://img.shields.io/badge/-iuricold99@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iuricold99@gmail.com)](mailto:iuricold99@gmail.com)
--->
+[![Gmail Badge](https://img.shields.io/badge/-eric.knapp011@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eric.knapp011@gmail.com)](mailto:iuricold99@gmail.com)
 
 
 
